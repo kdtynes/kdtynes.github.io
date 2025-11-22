@@ -672,6 +672,13 @@ footer.sticky-bottom {
   border-color: var(--global-text-color);
 }
 
+.publications ol.bibliography li div.bibtex.hidden {
+  border: dashed 1px var(--global-bg-color);
+}
+.publications ol.bibliography li div.bibtex.hidden.open {
+  border-color: var(--global-text-color);
+}
+
 figure.highlight {
   margin: 0 0 1rem;
 }
