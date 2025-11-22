@@ -12,4 +12,4 @@ mv _site/ docs/
 # Add, commit, and push the changes
 git add --all
 git commit -m "Deploy site"
-git push origin master
+git push origin main
