@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://jkschin.com/sitemap.xml
