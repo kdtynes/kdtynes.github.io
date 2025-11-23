@@ -679,6 +679,15 @@ footer.sticky-bottom {
   border-color: var(--global-text-color);
 }
 
+.publications h2.category {
+  color: var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
 figure.highlight {
   margin: 0 0 1rem;
 }
