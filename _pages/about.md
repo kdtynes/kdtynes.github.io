@@ -21,11 +21,11 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Machine Learning Program at [Georgia Tech] (https://ml.gatech.edu/). My research is at the intersection of machine learning and materials science, centered on developing sustainable energy solutions. Currently I am applying machine learning and physics-based modeling to study renewable energy materials. My experience is in spatial data analysis, molecular representation learning and materials informatics. This research is generously supported by the [NSF Graduate Research Fellowship Program]. (https://www.nsfgrfp.org/)
+I am a Machine Learning PhD student in the School of Computational Science and Engineering at [Georgia Tech] (https://ml.gatech.edu/). Supported by the [NSF Graduate Research Fellowship Program] (https://www.nsfgrfp.org/), my research focuses on spatial data analysis, molecular representation learning, and materials informatics.
 
-Previously, I earned a bachelor’s degree in Chemical Engineering from Stanford University and a Master’s degree in Computer Science from Georgia Tech. I also have industry experience at Shell Martinez Refining as a hydrotreating process engineer and at The Home Depot as a data scientist.
+Previously, I earned a bachelor’s degree in Chemical Engineering from Stanford University and a Master’s degree in Computer Science from Georgia Tech.
 
-Outside of research, I am passionate about advocating for underrepresented minorities in STEM fields, raising awareness to student mental health and wellbeing, and teaching Math and Science to K-12 students.
+Upon completion of my doctoral degree, I am interested in exploring postdoctoral opportunities to continue advancing research at the intersection of machine learning and molecular and materials discovery.
 
 Contact me
 ------
