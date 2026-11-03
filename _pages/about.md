@@ -21,11 +21,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Machine Learning PhD student in the School of Computational Science and Engineering at [Georgia Tech] (https://ml.gatech.edu/). Supported by the [NSF Graduate Research Fellowship Program] (https://www.nsfgrfp.org/), my research focuses on spatial data analysis, molecular representation learning, and materials informatics.
-
-Previously, I earned a bachelor’s degree in Chemical Engineering from Stanford University and a Master’s degree in Computer Science from Georgia Tech.
-
-Upon completion of my doctoral degree, I am interested in exploring postdoctoral opportunities to continue advancing research at the intersection of machine learning and molecular and materials discovery.
+I am a Machine Learning PhD student in the School of Computational Science and Engineering at [Georgia Tech] (https://ml.gatech.edu/). Supported by the [NSF Graduate Research Fellowship Program] (https://www.nsfgrfp.org/), my research focuses on accelerating molecule design and discovery for nanomedicine and energy systems. After completing the PhD, I plan to pursue postdoctoral opportunities to continue advancing research at the intersection of machine learning and chemistry.
 
 Contact me
 ------
